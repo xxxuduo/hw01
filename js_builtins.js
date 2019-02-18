@@ -54,7 +54,7 @@ builtins.search = function(sourceString, searchString) {
 
 // ----------------------------------------------------------------------------
 
-// Exercise 3. Rewriting reverse() using loops
+// Exercise 3. Rewriting reverse()
 
 // Write a function that takes an array and returns the array in reversed order
 // (by indices).
