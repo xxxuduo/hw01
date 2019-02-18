@@ -5,7 +5,7 @@
   "main": "js_builtins.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server -o"
+    "start": "http-server -o -c-1"
   },
   "author": "",
   "license": "ISC",
